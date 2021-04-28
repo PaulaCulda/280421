@@ -1,0 +1,3390 @@
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=39 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2059   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=65 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=22/70  Signal level=-88 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2061   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=35/70  Signal level=-75 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2066   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2067   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2074   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2083   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2089   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2090   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2090   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2091   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2091   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2091   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2091   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=32/70  Signal level=-78 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=7.2 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=32/70  Signal level=-78 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=32/70  Signal level=-78 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=32/70  Signal level=-78 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=32/70  Signal level=-78 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2092   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2096   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2108   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2116   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2120   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2124   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2134   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2147   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2153   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2153   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2153   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2153   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2154   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2154   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2154   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2154   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2154   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=7.2 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=22/70  Signal level=-88 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2155   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2156   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=7.2 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=21/70  Signal level=-89 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2157   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2157   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=43.3 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2157   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2157   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=7.2 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=7.2 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=52 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2158   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=7.2 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=21/70  Signal level=-89 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2165   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2167   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2167   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2167   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2167   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2167   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2167   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=57.8 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2168   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2169   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2169   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2169   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2169   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=7.2 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2171   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=5.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2171   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=5.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:242  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=5.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=22/70  Signal level=-88 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=52 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=22/70  Signal level=-88 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=22/70  Signal level=-88 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2173   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2176   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2176   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2176   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=6.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=22/70  Signal level=-88 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2176   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2176   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2176   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2176   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2176   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2177   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2177   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2177   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:252  Invalid misc:2177   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2177   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=11 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=22/70  Signal level=-88 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2177   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2177   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2178   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2178   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2178   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2178   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=57.8 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2178   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2182   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2182   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2182   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2183   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2185   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2188   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=7.2 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2188   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2188   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=58.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2193   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2197   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2198   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2198   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2198   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2198   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2200   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=28.9 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=21/70  Signal level=-89 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=22/70  Signal level=-88 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=39 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2205   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2206   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2206   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2206   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2206   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=43.3 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=39 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2207   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2208   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=23/70  Signal level=-87 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2209   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=13 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=28.9 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2210   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=19.5 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=21.7 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+
+wlan0     IEEE 802.11  ESSID:"CRS"  
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 50:1D:93:C5:56:10   
+          Bit Rate=14.4 Mb/s   Tx-Power=15 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:253  Invalid misc:2211   Missed beacon:0
+

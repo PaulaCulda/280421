@@ -1,0 +1,14 @@
+dormitor -68.619980
+hol -69.478945
+bucatarie -64.178179
+dormitor -63.083336
+dormitor -64.230766
+dormitor -72.090912
+dormitor -69.909088
+dormitor -69.727272
+dormitor -67.916667
+dormitor -60.727272
+dormitor 0.000000
+-nan -nan
+dormitor -61.574987
+hol -66.371878
